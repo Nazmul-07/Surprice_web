@@ -1,0 +1,39 @@
+body {
+    background-color: #f0f8ff;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 750px;
+    margin: auto;
+}
+
+.title {
+    color: #ff6347;
+    font-size: 3.5em;
+}
+
+.message {
+    font-size: 2.2em;
+    margin: 20px 0;
+}
+
+button {
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 2em;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff4500;
+}
